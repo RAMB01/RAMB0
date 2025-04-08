@@ -1,15 +1,6 @@
 {
-	["message"] = "success",
-	message = "success",
-
-	info = {
-		points = 123,
-		isLeader = true,
-		user = {
-			id = 12345,
-			name = "JohnDoe",
-		},
-		past_scores = { 50, 42, 95 },
-		best_friend = nil,
-	},
+[
+  "Title": "Dragon Ball Z Original Soundtrack - Solid State Scouter",
+  "Link": "https://www.youtube.com/watch?v=Lm77VCkf_do"
+  ]
 }
